@@ -1,0 +1,58 @@
+.tableCellBit {
+        text-align: center;
+        width:20px;
+}
+
+.tableCellBitHighlight {
+        background: #C0C000;
+}
+
+.tableCellBitCode {
+        text-align: center;
+        width:20px;
+        background: #C0C0C0;
+}
+
+#synthesizerControl {
+    text-align : center;
+        border: 1px solid black; /* Параметры границы */
+        border-radius: 10px 10px 10px 10px;
+        padding: 10px;
+        width  : 48%;
+        float  : left;
+}
+
+#synthesizerControlRight {
+        text-align : center;
+        border: 1px solid black; /* Параметры границы */
+        border-radius: 10px 10px 10px 10px;
+        padding: 10px;
+        width  : 48%;
+        float  : right;
+}
+
+#codeFormats {
+        text-align : center;
+        border: 1px solid black; /* Параметры границы */
+        border-radius: 10px 10px 10px 10px;
+        padding: 10px;
+        width : 99%;
+}
+
+#end {
+        clear: both;
+}
+
+table {
+        border-collapse: collapse;
+        align: center;
+        text-align: center;
+}
+
+td {
+        text-align : center;
+}
+
+select {
+        width:150px;
+}
